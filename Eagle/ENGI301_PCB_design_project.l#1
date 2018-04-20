@@ -1045,7 +1045,7 @@ Sizes: 0402, 0603 &amp; 0805</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="VDD_5V" prefix="SUPPLY">
+<deviceset name="VDD_5V">
 <gates>
 <gate name="G$1" symbol="VDD_5V" x="0" y="2.54"/>
 </gates>
